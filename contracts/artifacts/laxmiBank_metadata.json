@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Bank.sol": "laxmiBank"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Bank.sol": {
+			"keccak256": "0x6e837f1f3cfc9ed4b0f982723a682611624fabd6a1ecfce7b497ee027b982a85",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://be253db8b3ed9a209827d470cc9cc39d89c23acdb70c0e19a8afdc2c9f2f8299",
+				"dweb:/ipfs/QmdMhaTcYufLNsyLkszcULGizxRgVBq1UsYzdTppFHhuZC"
+			]
+		}
+	},
+	"version": 1
+}
